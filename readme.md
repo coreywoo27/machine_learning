@@ -1,4 +1,2 @@
-pytorch is installed under environment woo
 ###
-conda env list
-conda activate <myenv>
+Corey 在学习机器学习和深度学习，我们一起来看看它的学习成果吧！
