@@ -16,3 +16,6 @@ unet框架搭建，参考了 https://lmb.informatik.uni-freiburg.de/people/ronne
 
 ###resnet.py
 基于pytorch的resnet-18结构搭建
+
+###gnn.ipynb
+用codex出了一个gnn背景的小题目，帮助理解基础概念和结构。
